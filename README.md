@@ -5,7 +5,18 @@ Kickstart your Hactoberfest and Make your first PR! ~ A beginner friendly reposi
 # **What is Hacktoberfest??**
 Hacktoberfest is digitalocean’s annual event that encourages people to contribute to open source throughout october. Much of modern tech infrastructure—including some of digitalocean’s own products—relies on open-source projects built and maintained by passionate people who often don’t have the staff or budgets to do much more than keep the project alive. Hacktoberfest is all about giving back to those projects, sharpening skills, and celebrating all things open source, especially the people that make open source so special.
 
-Hacktoberfest is for everyone. Whether it’s your first time—or your ninth—it’s almost time to hack out four pristine pull/merge requests and complete your mission for open source. <br> <br>
+Hacktoberfest is for everyone. Whether it’s your first time—or your ninth—it’s almost time to hack out four pristine pull/merge requests and complete your mission for open source.
+
+- Register anytime between September 26 and October 31.
+
+- Pull requests can be made in any GITHUB or GITLAB hosted project that’s participating in Hacktoberfest (look for the “hacktoberfest” topic)
+
+- Project maintainers must accept your pull/merge requests for them to count toward your total.
+
+- Have 4 pull/merge requests accepted between October 1 and October 31 to complete Hacktoberfest.
+
+- The first 40,000 participants (maintainers and contributors) who complete Hacktoberfest can elect to receive one of two prizes: a tree planted in their name, or the Hacktoberfest 2022 t-shirt.
+<br> <br>
 
 <img src="/logo.png" alt="logo" width="300"/>
 <br> <br>
