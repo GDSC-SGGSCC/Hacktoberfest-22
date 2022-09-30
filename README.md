@@ -6,8 +6,9 @@
 # **What is Hacktoberfest??**
 Hacktoberfest is digitalocean’s annual event that encourages people to contribute to open source throughout october. Much of modern tech infrastructure—including some of digitalocean’s own products—relies on open-source projects built and maintained by passionate people who often don’t have the staff or budgets to do much more than keep the project alive. Hacktoberfest is all about giving back to those projects, sharpening skills, and celebrating all things open source, especially the people that make open source so special.
 
-Hacktoberfest is for everyone. Whether it’s your first time—or your ninth—it’s almost time to hack out four pristine pull/merge requests and complete your mission for open source.
-![Logo](https://github.com/GDSC-SGGSCC/Hacktoberfest-22/blob/main/logo.png)
+Hacktoberfest is for everyone. Whether it’s your first time—or your ninth—it’s almost time to hack out four pristine pull/merge requests and complete your mission for open source. <br>
+
+<img src="/logo.png" alt="logo" width="300"/>
 
 # **Steps to Follow!!**
 
@@ -25,7 +26,7 @@ Once you have forked the repository, add a 'Hello World' program in any Programm
 ### **4. First Contribution!**
 Once you have completed these steps, you can make your first contributon to this repository by creating a PR ( more on this below ).
 
-### **4. Give the repository a :star: **
+### **5. Give the repository a :star:**
 If you liked this project and got to learn something new, give the repository a star to motivate us and share the repository as much as you can!
 
 
