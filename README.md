@@ -51,7 +51,8 @@ To make your own local copy of this repository, open up your terminal/ command-l
 ### **1. Clone the Repository**
 We'll use the `git clone` command to clone the repository on our local system.
 Copy the repository HTTPS URL as shown in the screenshot below: <br> <br>
-![clone](https://github.com/GDSC-SGGSCC/Hacktoberfest-22/blob/main/clone.png)
+<!-- ![clone](https://github.com/GDSC-SGGSCC/Hacktoberfest-22/blob/main/clone.png) -->
+<img src="/clone.png" alt="logo" width="300"/>
 <br>
 Then run the following command: `git clone https://github.com/GDSC-SGGSCC/Hacktoberfest-22.git`.
 
@@ -158,7 +159,8 @@ git merge upstream/master
 At this point, you are ready to make a pull request to the original repository.
 
 You should navigate to your forked repository, click on the Contribute button and Open a new PR ( Pull Request ).
-![pr](https://github.com/GDSC-SGGSCC/Hacktoberfest-22/blob/main/pr.png)
+<!-- ![pr](https://github.com/GDSC-SGGSCC/Hacktoberfest-22/blob/main/pr.png) -->
+<img src="/pr.png" alt="logo" width="300"/>
 
 <br>
 
