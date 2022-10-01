@@ -1,6 +1,6 @@
 ![Banner](https://github.com/GDSC-SGGSCC/Hacktoberfest-22/blob/main/banner.png)
 # **Hacktoberfest-22' Hello World!**
-Kickstart your Hacktoberfest and Make your first PR! ~ A beginner friendly repository made specifically for open source beginners. Add a 'Hello World' program under any language. Just make sure you add the program under the correct language directory. Happy coding!!
+Kickstart your Hacktoberfest and Make your first PR! ~ A beginner-friendly repository made specifically for open source beginners. Add a 'Hello World' program under any language. Just make sure you add the program under the correct language directory. Happy coding!!
 
 # **What is Hacktoberfest??**
 Hacktoberfest is digitalocean’s annual event that encourages people to contribute to open source throughout october. Much of modern tech infrastructure—including some of digitalocean’s own products—relies on open-source projects built and maintained by passionate people who often don’t have the staff or budgets to do much more than keep the project alive. Hacktoberfest is all about giving back to those projects, sharpening skills, and celebrating all things open source, especially the people that make open source so special.
@@ -24,7 +24,7 @@ Hacktoberfest is for everyone. Whether it’s your first time—or your ninth—
 # **Steps to Follow!!**
 
 ### **1. Register for Hacktoberfest**
-Follow the link and authorize with either Github or Gitlab to participate in Hacktoberfest! <br>
+Follow the link and authorize with either GitHub or Gitlab to participate in Hacktoberfest! <br>
 https://hacktoberfest.com/auth/
 
 ### **2. Fork the Repository**
@@ -32,17 +32,17 @@ Create your own copy or "Fork" of this repository to make changes and contribute
 ![Fork](https://github.com/GDSC-SGGSCC/Hacktoberfest-22/blob/main/fork.png)
 
 ### **3. Add a 'Hello World' Program**
-Once you have forked the repository, add a 'Hello World' program in any Programming Language ( make sure to not repeat the program for an existing language in the repository ) to a folder with it's name as the programming language to the main branch. If there is no language folder, make one and then add into it.
+Once you have forked the repository, add a 'Hello World' program in any Programming Language ( make sure to not repeat the program for an existing language in the repository ) to a folder with its name as the programming language to the main branch. If there is no language folder, make one and then add into it.
 
 ### **4. First Contribution!**
-Once you have completed these steps, you can make your first contributon to this repository by creating a PR ( more on this below ).
+Once you have completed these steps, you can make your first contribution to this repository by creating a PR ( more on this below ).
 
 ### **5. Give the repository a :star:**
 If you liked this project and got to learn something new, give the repository a star to motivate us and share the repository as much as you can!
 
 
 # **How to Contribute?**
-To contribute to this project and other open-source projects, you need to have knowledge of Git and Github/ Gitlab.
+To contribute to this project and other open-source projects, you need to have knowledge of Git and GitHub/Gitlab.
 You need to have Git installed on your system. To check whether your system has Git installed, run  `git --version`. If you get any version, it means Git is installed on your system otherwise it is not.
 To install Git, visit https://git-scm.com/downloads and follow the instructions. <br><br>
 
@@ -164,5 +164,5 @@ You should navigate to your forked repository, click on the Contribute button an
 
 <br>
 
-### **Great Work!!! You just contributed to an open-source project and learnt to use Git and Github. You also got a step closer to complete Hacktoberfest Challenge.** <br>
+### **Great Work!!! You just contributed to an open-source project and learnt to use Git and GitHub. You also got a step closer to complete Hacktoberfest Challenge.** <br>
 **Look for more projects with the "hacktoberfest" label to complete Hacktoberfest'22 and keep contributing to open-source!!!**
