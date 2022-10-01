@@ -1,0 +1,15 @@
+C:\Projects\Hacktoberfest-22\C-Sharp\bin\Debug\net6.0\C-Sharp.exe
+C:\Projects\Hacktoberfest-22\C-Sharp\bin\Debug\net6.0\C-Sharp.deps.json
+C:\Projects\Hacktoberfest-22\C-Sharp\bin\Debug\net6.0\C-Sharp.runtimeconfig.json
+C:\Projects\Hacktoberfest-22\C-Sharp\bin\Debug\net6.0\C-Sharp.dll
+C:\Projects\Hacktoberfest-22\C-Sharp\bin\Debug\net6.0\C-Sharp.pdb
+C:\Projects\Hacktoberfest-22\C-Sharp\obj\Debug\net6.0\C-Sharp.csproj.AssemblyReference.cache
+C:\Projects\Hacktoberfest-22\C-Sharp\obj\Debug\net6.0\C-Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Hacktoberfest-22\C-Sharp\obj\Debug\net6.0\C-Sharp.AssemblyInfoInputs.cache
+C:\Projects\Hacktoberfest-22\C-Sharp\obj\Debug\net6.0\C-Sharp.AssemblyInfo.cs
+C:\Projects\Hacktoberfest-22\C-Sharp\obj\Debug\net6.0\C-Sharp.csproj.CoreCompileInputs.cache
+C:\Projects\Hacktoberfest-22\C-Sharp\obj\Debug\net6.0\C-Sharp.dll
+C:\Projects\Hacktoberfest-22\C-Sharp\obj\Debug\net6.0\refint\C-Sharp.dll
+C:\Projects\Hacktoberfest-22\C-Sharp\obj\Debug\net6.0\C-Sharp.pdb
+C:\Projects\Hacktoberfest-22\C-Sharp\obj\Debug\net6.0\C-Sharp.genruntimeconfig.cache
+C:\Projects\Hacktoberfest-22\C-Sharp\obj\Debug\net6.0\ref\C-Sharp.dll
