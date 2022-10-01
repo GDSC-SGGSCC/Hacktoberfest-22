@@ -1,6 +1,6 @@
 ![Banner](https://github.com/GDSC-SGGSCC/Hacktoberfest-22/blob/main/banner.png)
 # **Hacktoberfest-22' Hello World!**
-Kickstart your Hactoberfest and Make your first PR! ~ A beginner friendly repository made specifically for open source beginners. Add a 'Hello World' program under any language. Just make sure you add the program under the correct language directory. Happy coding!!
+Kickstart your Hacktoberfest and Make your first PR! ~ A beginner friendly repository made specifically for open source beginners. Add a 'Hello World' program under any language. Just make sure you add the program under the correct language directory. Happy coding!!
 
 # **What is Hacktoberfest??**
 Hacktoberfest is digitalocean’s annual event that encourages people to contribute to open source throughout october. Much of modern tech infrastructure—including some of digitalocean’s own products—relies on open-source projects built and maintained by passionate people who often don’t have the staff or budgets to do much more than keep the project alive. Hacktoberfest is all about giving back to those projects, sharpening skills, and celebrating all things open source, especially the people that make open source so special.
