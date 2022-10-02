@@ -164,5 +164,13 @@ You should navigate to your forked repository, click on the Contribute button an
 
 <br>
 
-### **Great Work!!! You just contributed to an open-source project and learnt to use Git and Github. You also got a step closer to complete Hacktoberfest Challenge.** <br>
-**Look for more projects with the "hacktoberfest" label to complete Hacktoberfest'22 and keep contributing to open-source!!!**
+# **Author**
+
+**Priyanshu Singh** - **[reveurguy](https://github.com/reveurguy)**
+
+See also the list of **[contributors](https://github.com/GDSC-SGGSCC/Hacktoberfest-22/graphs/contributors)** who participated in this project.
+
+
+> **Great Work!!! You just contributed to an open-source project and learnt to use Git and Github.** <br>
+> **You also got a step closer to complete Hacktoberfest Challenge.** <br>
+> **Look for more projects with the "hacktoberfest" label to complete Hacktoberfest'22 and keep contributing to open-source!!!**
