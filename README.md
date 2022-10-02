@@ -1,5 +1,6 @@
 ![Banner](https://github.com/GDSC-SGGSCC/Hacktoberfest-22/blob/main/banner.png)
-# **Hacktoberfest-22' Hello World!**
+# **Hacktoberfest-22' Hello World!** [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Kickstart%20your%20Hactoberfest'22%20with%20this%20great%20repository&url=https://github.com/GDSC-SGGSCC/Hacktoberfest-22&via=gdsc_sggscc&hashtags=hacktoberfest,opensource,programming,hactoberfest2022)
+
 Kickstart your Hacktoberfest and Make your first PR! ~ A beginner friendly repository made specifically for open source beginners. Add a 'Hello World' program under any language. Just make sure you add the program under the correct language directory. Happy coding!!
 
 # **What is Hacktoberfest??**
