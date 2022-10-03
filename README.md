@@ -21,8 +21,7 @@ Hacktoberfest is for everyone. Whether it’s your first time—or your ninth—
 - The first 40,000 participants (maintainers and contributors) who complete Hacktoberfest can elect to receive one of two prizes: a tree planted in their name, or the Hacktoberfest 2022 t-shirt.
 <br> <br>
 
-<img src="/logo.png" alt="logo" width="300"/>
-<br>
+<img src="/logo.png" alt="logo" width="500"/>
 <br>
 
 # **Steps to Follow!!**
@@ -169,15 +168,22 @@ You should navigate to your forked repository, click on the Contribute button an
 <!-- ![pr](https://github.com/GDSC-SGGSCC/Hacktoberfest-22/blob/main/pr.png) -->
 <img src="/pr.png" alt="PR" width="500"/>
 
-<br>
+# **Congratulations!!**
+**Great Work!!! You just contributed to an open-source project and learnt to use Git and GitHub.** <br>
+**You also got a step closer to complete the Hacktoberfest Challenge.** <br>
+**Look for more projects with the "hacktoberfest" label to complete Hacktoberfest'22 and keep contributing to open-source!!!**
+
+
+# **Perks of Hacktoberfest!!**
+* You get to hone your Git and Github skills. If you are a beginner, there's no better time to start learning!
+* You get to learn about open-source and get hands-on experience of contributing to it!
+* You get a chance to earn **great swags** like the one below!!
+
+<img src="https://user-images.githubusercontent.com/59417546/193655910-794c2383-2a11-43e6-a199-16366bf0a01c.png" width="800">
+
 
 # **Author**
 
 **Priyanshu Singh** - **[reveurguy](https://github.com/reveurguy)**
 
 See also the list of **[contributors](https://github.com/GDSC-SGGSCC/Hacktoberfest-22/graphs/contributors)** who participated in this project.
-
-
-> **Great Work!!! You just contributed to an open-source project and learnt to use Git and GitHub.** <br>
-> **You also got a step closer to complete Hacktoberfest Challenge.** <br>
-> **Look for more projects with the "hacktoberfest" label to complete Hacktoberfest'22 and keep contributing to open-source!!!**
