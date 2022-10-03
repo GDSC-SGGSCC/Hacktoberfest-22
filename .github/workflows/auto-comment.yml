@@ -20,4 +20,4 @@ jobs:
           pullRequestClosed: |
             Thanks @{{ author }} !!
             Make sure to give the repository a star and share about it as well!
-            You can tweet about the repository as well using the tweet badge on the Readme file or website!
+            You can tweet about the repository as well using the tweet badge on the Readme file or Website!
