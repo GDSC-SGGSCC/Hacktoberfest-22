@@ -5,6 +5,7 @@ on:
     types: [ opened, closed, labeled ]
 jobs:
   run:
+    if: ${{ github.event.label.name == 'Merged' }}
     runs-on: ubuntu-latest
     steps:
       - uses: wow-actions/auto-comment@v1
@@ -24,14 +25,7 @@ jobs:
             Thanks @{{ author }} !!
             Make sure to give the repository a star and share about it as well!
             You can tweet about the repository as well using the tweet badge on the Readme file or Website!
-  
-  if: ${{ github.event.label.name == ':sparkles: Merged:' }}
-  run:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: wow-actions/auto-comment@v1
-        with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
           pullRequestLabeled: >
             Thanks @{{ author }} !!
             Make sure to give the repository a star and share about it as well!
