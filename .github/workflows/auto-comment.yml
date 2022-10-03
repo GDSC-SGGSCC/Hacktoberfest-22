@@ -2,7 +2,7 @@ name: Auto Comment
 on:
   issues:
   pull_request_target:
-    types: [ opened, closed, labeled ]
+    types: [ opened, closed ]
 jobs:
   run:
     runs-on: ubuntu-latest
