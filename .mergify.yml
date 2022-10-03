@@ -5,6 +5,6 @@ pull_request_rules:
       - -conflict # skip PRs with conflicts
       - -draft # filter-out GH draft PRs
     actions:
+      update:
       merge:
         method: merge
-      update:
