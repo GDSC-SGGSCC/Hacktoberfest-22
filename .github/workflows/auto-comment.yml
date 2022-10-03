@@ -1,5 +1,5 @@
 name: Auto Comment
-on: [issues, pull_request]
+on: [issues, pull_request_target]
 jobs:
   run:
     runs-on: ubuntu-latest
@@ -7,17 +7,17 @@ jobs:
       - uses: wow-actions/auto-comment@v1
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          issuesOpened: |
+          issuesOpened: >
             👋 @{{ author }}
             Thank you for raising an issue. We will will investigate into the matter and get back to you as soon as possible.
             Please make sure you have given us as much context as possible.
 
-          pullRequestOpened: |
+          pullRequestOpened: >
             👋 @{{ author }}
             Thank you for raising your pull request.
             Please make sure you have followed our contributing guidelines. We will review it as soon as possible!
 
-          pullRequestClosed: |
+          pullRequestClosed: >
             Thanks @{{ author }} !!
             Make sure to give the repository a star and share about it as well!
             You can tweet about the repository as well using the tweet badge on the Readme file or Website!
