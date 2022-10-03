@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Hacktoberfest-2022</h2>
+<p id="challenge"></p>
+
+<script>
+const myObj = {print:"Hello World"};
+document.getElementById("challenge").innerHTML = myObj["print"];
+</script>
+
+</body>
+</html>
