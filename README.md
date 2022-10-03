@@ -1,5 +1,6 @@
 <!-- ![Banner](https://github.com/GDSC-SGGSCC/Hacktoberfest-22/blob/main/banner.png) -->
 <img src="/banner.png" alt="banner" width="830"/>
+<br>
 
 # **Hacktoberfest-22' Hello World!** [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Kickstart%20your%20Hactoberfest'22%20with%20this%20great%20repository&url=https://github.com/GDSC-SGGSCC/Hacktoberfest-22&via=gdsc_sggscc&hashtags=hacktoberfest,opensource,programming,hactoberfest2022)
 
@@ -22,6 +23,7 @@ Hacktoberfest is for everyone. Whether it’s your first time—or your ninth—
 <br> <br>
 
 <img src="/logo.png" alt="logo" width="500"/>
+<br>
 <br>
 
 # **Steps to Follow!!**
@@ -59,6 +61,8 @@ Copy the repository HTTPS URL as shown in the screenshot below: <br> <br>
 <!-- ![clone](https://github.com/GDSC-SGGSCC/Hacktoberfest-22/blob/main/clone.png) -->
 <img src="/clone.png" alt="Clone" width="300"/>
 <br>
+<br>
+
 
 Then run the following command: `git clone https://github.com/GDSC-SGGSCC/Hacktoberfest-22.git`.
 
@@ -167,6 +171,8 @@ At this point, you are ready to make a pull request to the original repository.
 You should navigate to your forked repository, click on the Contribute button and Open a new PR ( Pull Request ).
 <!-- ![pr](https://github.com/GDSC-SGGSCC/Hacktoberfest-22/blob/main/pr.png) -->
 <img src="/pr.png" alt="PR" width="500"/>
+<br>
+<br>
 
 # **Congratulations!!**
 **Great Work!!! You just contributed to an open-source project and learnt to use Git and GitHub.** <br>
@@ -180,7 +186,8 @@ You should navigate to your forked repository, click on the Contribute button an
 * You get a chance to earn **great swags** like the one below!!
 
 <img src="https://user-images.githubusercontent.com/59417546/193655910-794c2383-2a11-43e6-a199-16366bf0a01c.png" width="800">
-
+<br>
+<br>
 
 # **Author**
 
