@@ -1,9 +1,10 @@
 <!-- ![Banner](https://github.com/GDSC-SGGSCC/Hacktoberfest-22/blob/main/banner.png) -->
 <img src="/banner.png" alt="banner" width="830"/>
+<br>
 
 # **Hacktoberfest-22' Hello World!** [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Kickstart%20your%20Hactoberfest'22%20with%20this%20great%20repository&url=https://github.com/GDSC-SGGSCC/Hacktoberfest-22&via=gdsc_sggscc&hashtags=hacktoberfest,opensource,programming,hactoberfest2022)
 
-Kickstart your Hacktoberfest and Make your first PR! ~ A beginner-friendly repository made specifically for open source beginners. Add a 'Hello World' program under any language. Just make sure you add the program under the correct language directory. Happy coding!!
+Kickstart your Hacktoberfest and Make your first PR! ~ A beginner-friendly repository made specifically for open source beginners. Add a **'Hello World'** or **any other program** under **any language.** Just make sure you add the program under the correct language directory. Happy coding!!
 
 # **What is Hacktoberfest??**
 Hacktoberfest is digitalocean’s annual event that encourages people to contribute to open source throughout october. Much of modern tech infrastructure—including some of digitalocean’s own products—relies on open-source projects built and maintained by passionate people who often don’t have the staff or budgets to do much more than keep the project alive. Hacktoberfest is all about giving back to those projects, sharpening skills, and celebrating all things open source, especially the people that make open source so special.
@@ -21,7 +22,7 @@ Hacktoberfest is for everyone. Whether it’s your first time—or your ninth—
 - The first 40,000 participants (maintainers and contributors) who complete Hacktoberfest can elect to receive one of two prizes: a tree planted in their name, or the Hacktoberfest 2022 t-shirt.
 <br> <br>
 
-<img src="/logo.png" alt="logo" width="300"/>
+<img src="/logo.png" alt="logo" width="500"/>
 <br>
 <br>
 
@@ -60,6 +61,8 @@ Copy the repository HTTPS URL as shown in the screenshot below: <br> <br>
 <!-- ![clone](https://github.com/GDSC-SGGSCC/Hacktoberfest-22/blob/main/clone.png) -->
 <img src="/clone.png" alt="Clone" width="300"/>
 <br>
+<br>
+
 
 Then run the following command: `git clone https://github.com/GDSC-SGGSCC/Hacktoberfest-22.git`.
 
@@ -168,7 +171,21 @@ At this point, you are ready to make a pull request to the original repository.
 You should navigate to your forked repository, click on the Contribute button and Open a new PR ( Pull Request ).
 <!-- ![pr](https://github.com/GDSC-SGGSCC/Hacktoberfest-22/blob/main/pr.png) -->
 <img src="/pr.png" alt="PR" width="500"/>
+<br>
+<br>
 
+# **Congratulations!!**
+**Great Work!!! You just contributed to an open-source project and learnt to use Git and GitHub.** <br>
+**You also got a step closer to complete the Hacktoberfest Challenge.** <br>
+**Look for more projects with the "hacktoberfest" label to complete Hacktoberfest'22 and keep contributing to open-source!!!**
+
+
+# **Perks of Hacktoberfest!!**
+* You get to hone your Git and Github skills. If you are a beginner, there's no better time to start learning!
+* You get to learn about open-source and get hands-on experience of contributing to it!
+* You get a chance to earn **great swags** like the one below!!
+
+<img src="https://user-images.githubusercontent.com/59417546/193655910-794c2383-2a11-43e6-a199-16366bf0a01c.png" width="800">
 <br>
 <br>
 
@@ -177,8 +194,3 @@ You should navigate to your forked repository, click on the Contribute button an
 **Priyanshu Singh** - **[reveurguy](https://github.com/reveurguy)**
 
 See also the list of **[contributors](https://github.com/GDSC-SGGSCC/Hacktoberfest-22/graphs/contributors)** who participated in this project.
-
-
-> **Great Work!!! You just contributed to an open-source project and learnt to use Git and GitHub.** <br>
-> **You also got a step closer to complete Hacktoberfest Challenge.** <br>
-> **Look for more projects with the "hacktoberfest" label to complete Hacktoberfest'22 and keep contributing to open-source!!!**
