@@ -1,5 +1,14 @@
 {
+  "scripts": {
+    "dev": "react-scripts dev",
+    "build": "react-scripts build",
+    "start": "react-scripts start",
+    "lint": "react-scripts lint"
+  },
   "dependencies": {
-    "docsify-cli": "^4.4.4"
+    "create-react-app": "^1.2.1",
+    "docsify-cli": "^4.4.2",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1"
   }
 }
