@@ -2,7 +2,7 @@ name: Auto Comment
 on:
   issues:
   pull_request_target:
-    types: [ opened, closed, labeled ]
+    types: [ opened, closed ]
 jobs:
   run:
     runs-on: ubuntu-latest
@@ -21,18 +21,6 @@ jobs:
             Please make sure you have followed our contributing guidelines. We will review it as soon as possible!
 
           pullRequestClosed: >
-            Thanks @{{ author }} !!
-            Make sure to give the repository a star and share about it as well!
-            You can tweet about the repository as well using the tweet badge on the Readme file or Website!
-
-  run2:
-    if: ${{ github.event.label.name == 'Merged' }}
-    runs-on: ubuntu-latest
-    steps:
-      - uses: wow-actions/auto-comment@v1
-        with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          pullRequestLabeled: >
             Thanks @{{ author }} !!
             Make sure to give the repository a star and share about it as well!
             You can tweet about the repository as well using the tweet badge on the Readme file or Website!
