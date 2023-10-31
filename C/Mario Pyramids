@@ -1,0 +1,49 @@
+#include <cs50.h>
+#include <stdio.h>
+
+//cs50 Mario Pyramids
+int main(void)
+{
+//get size
+int j;
+do{
+printf("Enter a digit 1-8:");
+scanf("%i",&j);
+}
+while(j>8  || j<1);
+//print mario
+
+for (int i=0;i<j;i++)
+{
+//print left space
+
+for (int k=i-1;k<j;k++)
+{
+    printf(" ");
+}
+//print left hash
+
+for (int l=0;l<i+1;l++)
+{
+    printf("#");
+}
+//print middle space
+
+printf("  ");
+
+//print right hash
+
+for (int m=0;m<i+1;m++)
+{
+    printf("#");
+}
+
+printf("\n");
+
+}
+}
+
+
+
+
+
